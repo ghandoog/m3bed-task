@@ -7,7 +7,7 @@
 > [!NOTE]
 > ### Folder Structure
 - >***m3bed-task***
-  - >src :point_left:
+  - >src (folder :point_left:)
     - main.jsx
     - login.jsx
     - index.css
