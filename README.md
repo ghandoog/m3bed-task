@@ -12,10 +12,10 @@
       - list-item
         - todo-item
 
-
-- [x] todo-list
-- [x] login-form
-
+:shipit:
+- [x] todo-list :+1:
+- [x] login-form :+1:
+:shipit:
            
      
  <img width="1077" alt="Screen Shot 2024-09-09 at 10 16 18 PM" src="https://github.com/user-attachments/assets/3c8f5925-62be-4eab-814f-09528e8b12e8">
