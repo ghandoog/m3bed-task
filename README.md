@@ -4,7 +4,7 @@
 >> cd m3bed-task
 >> npm install && npm run dev
 ```
-[!TIP]
+≥[!TIP]
 ### folder structure
 - >***m3bed-task***
   - >src
