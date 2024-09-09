@@ -4,8 +4,8 @@
 >> cd m3bed-task
 >> npm install && npm run dev
 ```
-> [!TIP]
-### folder structure
+> [!NOTE]
+> ### folder structure
 - >***m3bed-task***
   - >src
     - main.jsx
