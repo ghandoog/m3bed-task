@@ -10,7 +10,12 @@
 
 ### folder structure
 - >***m3bed***
-      - src (folder)
-        - todo-list
-          - list-item
-          - todo-item
+  - src (folder)
+    - todo-list
+      - list-item
+        - todo-item
+
+- [] task-1
+- [x] task-2
+- [x] task-3
+    
