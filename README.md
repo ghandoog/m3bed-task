@@ -6,16 +6,16 @@
 ```
 
 ### folder structure
-- >***m3bed***
-  - src
+- >***m3bed-task***
+  - >src
     - main.jsx
     - login.jsx
     - index.css
     - app.css
-    - todo-list (folder)
+    - >todo-list (folder)
       - TodoApp.jsx
       - App.css
-      - components (folder)
+      - >components (folder)
         - TodoForm.jsx
         - TodoItem.jsx
         - TodoList.jsx
