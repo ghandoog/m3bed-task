@@ -15,7 +15,7 @@
       - list-item
         - todo-item
 
-- [] task-1
+- [ ] task-1
 - [x] task-2
 - [x] task-3
     
