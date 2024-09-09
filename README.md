@@ -1,6 +1,6 @@
 # login & todo-list
 ```
->> git clone [Project]
+>> git clone https://github.com/ghandoog/m3bed-task.git
 >> cd m3bed-task
 >> npm install && npm run dev
 ```
