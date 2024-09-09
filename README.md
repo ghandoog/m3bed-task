@@ -8,12 +8,9 @@
  
 <img width="991" alt="Screen Shot 2024-09-09 at 10 16 26 PM" src="https://github.com/user-attachments/assets/fc3b12d1-3fa5-46d4-bae8-4787bafbbb9e">
 
-### unorder List
-- list1
-- list2
-- list3
-
-### order list
-1. list
-2. list
-3. list
+### folder structure
+-***m3bed***
+ -src (folder)
+  -todo-list
+   ->list-item
+   ->todo-item
