@@ -8,4 +8,4 @@
  
 <img width="991" alt="Screen Shot 2024-09-09 at 10 16 26 PM" src="https://github.com/user-attachments/assets/fc3b12d1-3fa5-46d4-bae8-4787bafbbb9e">
 
-[google site] (google.com)
+[google site](google.com)
