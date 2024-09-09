@@ -5,17 +5,17 @@
 >> npm install && npm run dev
 ```
 > [!NOTE]
-> ### folder structure
+> ### Folder Structure
 - >***m3bed-task***
-  - >src
+  - >src :point_left:
     - main.jsx
     - login.jsx
     - index.css
     - app.css
-    - >todo-list (folder)
+    - >todo-list (folder :point_left:)
       - TodoApp.jsx
       - App.css
-      - >components (folder)
+      - >components (folder :point_left:)
         - TodoForm.jsx
         - TodoItem.jsx
         - TodoList.jsx
